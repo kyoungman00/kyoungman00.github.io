@@ -19,10 +19,10 @@ oracle에서 '&'기호는 바로뒤 문자를 varialble로 인식하여 실행 �
 
 `SELECT '&use Ampersnad' AS RESULT FROM DUAL;`
 
-*set define off*를 하지 않은  *set define on*에서 실행한 결과이다.
+*set define off*를 하지 않은  *set define on*에서 실행한 결과이다.  
 
+/assets/images/set_define_on_variable_input.png
 
+*set define off*를 설정한 후 조회한 결과이다.  
 
-*set define off*를 설정한 후 조회한 결과이다.
-
-
+/assets/images/set_define_off_result.png
