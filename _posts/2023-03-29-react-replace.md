@@ -26,7 +26,7 @@ value : 202303-29
 ```javascript
 var date = '2023-03-29';
 
-console.log("valeu : " + date.replace(/-/g,""));
+console.log("value : " + date.replace(/-/g,""));
 ```
 
 ```bash
