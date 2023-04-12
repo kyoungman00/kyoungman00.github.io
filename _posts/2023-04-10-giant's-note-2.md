@@ -17,7 +17,7 @@ tags:
 기록을 통해 내가 누구인지를 확인하고, 내가 원하는 나의 욕망을 찾아 실천해가자.  
 내가 할 수 있는 일과 할 수 없는 일을 단정하며 나의 자유를 스스로 축약하지 말자.  
 
-[Giant'sNote-1] : https://kyoungman00.github.io/reading%20book/giant's-note-1/
+[Giant'sNote-1]
 
 
 ## 거인의 요약법과 분류법
@@ -64,3 +64,6 @@ tags:
 
 > "처음부터 중요한 기록은 없다."
 > "작성한 기록을 다시 읽고 생각하고 분류하면서 다듬다보면, 계속해서 남아 있는 기록이 있다. 그 것이 중요한 기록이다."
+
+
+[Giant'sNote-1] : https://kyoungman00.github.io/reading%20book/giant's-note-1/
