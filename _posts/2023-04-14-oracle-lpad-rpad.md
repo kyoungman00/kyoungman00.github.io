@@ -21,8 +21,8 @@ oracle에서 숫자열로 입력된 Data 앞, 뒤에 '0'을 채워 원하는 자
 문자열 앞에 원하는 자리 수 만큼 원하는 문자를 추가한다.  
 
 ```sql
-SELECT 123 AS ORIGIN
-       , LPAD(123,10,0) AS LPAD_10_0   -- 123 앞으로 10자리가 될 때까지 0을 채운다. 
+SELECT LPAD(123,10,0) AS LPAD_10_0   -- 123 앞으로 10자리가 될 때까지 0을 채운다. 
+       , 123 AS ORIGIN
   FROM DUAL;
 ```
 
@@ -35,8 +35,8 @@ SELECT 123 AS ORIGIN
 문자열 뒤에 원하는 자리 수 만큼 원하는 문자를 추가한다.  
 
 ```sql
-SELECT 123 AS ORIGIN
-       , RPAD(123,10,0) AS LPAD_10_0   -- 123 뒤로 10자리가 될 때까지 0을 채운다. 
+SELECT RPAD(123,10,0) AS LPAD_10_0   -- 123 뒤로 10자리가 될 때까지 0을 채운다. 
+       , 123 AS ORIGIN
   FROM DUAL;
 ```
 
