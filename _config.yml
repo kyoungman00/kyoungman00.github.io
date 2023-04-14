@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" #"default",  "air", "aqua", "contrast", "dark"
 locale                   : "ko-KR"
 title                    : "ManiMani"
 title_separator          : "-"
-subtitle                 : "나의 성장 기록" #site tagline that appears below site title in masthead
+subtitle                 : "마니마니 BLOG" #site tagline that appears below site title in masthead
 name                     : "kyoungman"
 description              : "안녕하세요. 정경만입니다."
 url                      : #"https://kyoungman00.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "kyoungman"
   avatar           : "/assets/images/profile-20230413.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "^.^"
+  bio              : "같이 성장하기 위한 기록"
   location         : #""
   email            : "kyoungman00@gmail.com"
   links:
