@@ -16,6 +16,8 @@ tags:
 
 # LAG & LEAD
 oracle에서 동일 컬럼의 바로 전, 바로 이후의 데이터 변화 내역을 비교하기위해 사용한다.  
+
+
 LAG는 window함수 partition 그룹에 대해 order by 기준으로 바로 이전 데이터를 조회한다.  
 LEAD는 window함수 partition 그룹에 대해 order by 기준으로 바로 이후 데이터를 조회한다.  
 
