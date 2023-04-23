@@ -17,7 +17,7 @@ tags:
 
 
 ## 도메인 / 접두어 입력.
-[google search console][link_google_search_console]]에 접속하여 시작하기를 누릅니다.  
+[google search console][link_google_search_console]에 접속하여 시작하기를 누릅니다.  
 ![set define on](/assets/images/google_search_console_0.png)
 
 
