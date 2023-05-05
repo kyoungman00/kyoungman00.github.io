@@ -18,7 +18,7 @@ Install c# extention in vscode for using c#.
 
 
 
-Install [.Net 6[install-dotnet6].net 6(or newer).  
+Install [.Net 6][install-dotnet6].net 6(or newer).  
 
 That's required for c# extention.  
 ![set define on](/assets/images/cshap_extention_requirement.png)  
