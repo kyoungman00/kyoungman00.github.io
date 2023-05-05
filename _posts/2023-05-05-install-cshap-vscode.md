@@ -25,7 +25,7 @@ That's required for c# extention.
 ![set define on](/assets/images/cshap_extention_requirement_dotnet6.png)  
 
 
-
+---
 # Restart VSCode & Check Install C# Extention
 Start vscode and open folder that's creating project namespace.   
 
@@ -37,7 +37,7 @@ If C# Extention installed perpectly that show information installed dotnet versi
 ![set define on](/assets/images/check_vscode_install.png)  
 
 
-
+---
 # Accured Error (not found dotnet), Solved Error.
 
 If Accured Error, not found dotnet, when check version.   
