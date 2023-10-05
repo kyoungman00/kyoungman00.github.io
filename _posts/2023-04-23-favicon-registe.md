@@ -1,10 +1,12 @@
 ---
-title: "[github page] Github Page Favicon 등록, registe favicon"
+title: "[github page] Github Page Favicon 등록하기, icon적용. register favicon"
 categories:
   - github page
 tags:
   - github page
   - favicon
+  - favicon 등록
+  - icon 등록
 ---
 
 ## registe favicon
