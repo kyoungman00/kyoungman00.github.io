@@ -11,7 +11,7 @@ tags:
 
 ## vscode에서 npm run android 명령어 실행 오류
 
->> Could not resolve all task dependencies for configuration ':classpath' 
+> Could not resolve all task dependencies for configuration ':classpath' 
 
 'classpath'를 찾을 수 없다는 오류인줄 알고 'classpath가 뭐길래?'로 엄청난 삽질을 한 결과...
 
