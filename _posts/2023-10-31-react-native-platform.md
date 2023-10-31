@@ -30,6 +30,6 @@ const styles = StyleSheet.create({
   box:{width:'70%', height:100, backgroundColor:'white',marginBottom:10  
     , marginLeft: Platform.select({ios:20, android:0}) },  
   border:{borderWidth:10, borderColor:Colors.lime500}  
-})  
-
+})
+```
 
