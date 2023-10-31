@@ -18,7 +18,7 @@ MD2Colors와 color를 사용하기 위해 다음을 설치해준다.
 > npm i -D @types/color  
 
 
-```javascript Platform StyleSheet 적용 예시.
+```javascript:Platform StyleSheet 적용 예시.
 import {Platform, StyleSheet} from 'react-native'  
 import { MD2Colors as Colors } from 'react-native-paper'  
 import color from 'color'  
