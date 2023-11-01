@@ -31,6 +31,7 @@ project cmd+p에서 info.plst를 검색한다.
 
 <plist><dict>의 맨 아래에 아래 코드를 붙여넣는다.  
 
+
 ```xml
 	<key>UIAppFonts</key>  
 	<array>  
@@ -48,7 +49,9 @@ project cmd+p에서 info.plst를 검색한다.
 		<string>SimpleLineIcons.ttf</string>  
 		<string>Octicons.ttf</string>  
 		<string>Zocial.ttf</string>  
+	</array>
 ```
+
 
 코드 붙여 넣은 후 yarn iOS || npm run IOS 실행한다.
 
