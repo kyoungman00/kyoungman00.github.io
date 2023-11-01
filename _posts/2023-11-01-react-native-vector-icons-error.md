@@ -29,8 +29,7 @@ apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
 project cmd+p에서 info.plst를 검색한다. 
 
-
-<plist><dict>의 맨 아래에 아래 코드를 붙여넣는다.
+<plist><dict>의 맨 아래에 아래 코드를 붙여넣는다.  
 
 ```xml
 	<key>UIAppFonts</key>  
