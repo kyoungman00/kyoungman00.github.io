@@ -1,5 +1,5 @@
 ---
-title: "[sqs] sql hint 종류"
+title: "[oracle] sql hint 종류"
 categories:
   - oralce
 tags:
